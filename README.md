@@ -9,11 +9,10 @@ It is available to download for MacOS and Windows.
 ## Installation Windows
 
 Download the game:
-Download the game:
 
-[Download](http://www.041er-blj.ch)
+[Download](https://github.com/Powershooter83/labyrinth/releases/tag/1.0.3)
 
-Double click on game.exe
+Double click on labyrinth.exe
 
 
 
@@ -23,6 +22,7 @@ Double click on game.exe
 Download the game:
 
 [Download](https://github.com/Powershooter83/labyrinth/releases/tag/1.0.2)
+
 Unzip the file and double click on labyrinth.app
 
 ## FAQ
