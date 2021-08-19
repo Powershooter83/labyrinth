@@ -22,9 +22,9 @@ Double click on game.exe
 
 Download the game:
 
-[Download](http://www.041er-blj.ch)
+[Download](https://github.com/Powershooter83/labyrinth/releases/tag/1.0.2)
+Unzip the file and double click on labyrinth.app
 
-Double click on game.app
 ## FAQ
 
 #### Is it free to use?
