@@ -9,9 +9,7 @@ It is available to download for MacOS and Windows.
 ## Installation Windows
 
 Download the game: [Download](https://github.com/Powershooter83/labyrinth/releases/tag/1.0.3)
-
-Double click on labyrinth.exe
-
+Unzip the Labyrinth.zip archive to a folder and double-click labyrinth.exe.
 
 
 
