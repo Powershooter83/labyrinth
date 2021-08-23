@@ -12,8 +12,6 @@ Download the game: [Download](https://github.com/Powershooter83/labyrinth/releas
 
 Double click on labyrinth.exe
 
-Requires Java 11: [Download](https://www.java.com/de/download/manual.jsp)
-
 
 
 
